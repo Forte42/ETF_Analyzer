@@ -26,7 +26,7 @@ This notebook was made to practice using SQL to explore databases and analyze a 
 
 ![paypal_daily](voila/paypal_daily.png)
 
-![big_table](vola/big_table.png)
+![big_table](voila/big_table.png)
 
 ---
 
